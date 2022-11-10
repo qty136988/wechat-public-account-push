@@ -62,9 +62,6 @@ const USER_CONFIG = {
        
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '我', year: '1999', date: '11-12',
-        },
-        {
           type: '节日', name: '春节', year: '2023', date: '01-22',
         },
       ],
@@ -77,15 +74,19 @@ const USER_CONFIG = {
       ],
     },
     {
-      name: '二号',
-      id: '',
-      useTemplateId: '',
-      province: '',
-      city: '',
+      name: '菲',
+      id: 'ob7_d6vxQA19T0PP1NDwhQBh6H60',
+      useTemplateId: '7kJZ5yGEPLdAUkg4RJJNC6iMD0MFyFcioFTH4hL0RDQ',
+      province: '河南',
+      city: '洛阳',
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: 'https://wangxinleo.cn',
-      festivals: [],
+      openUrl: 'http://qty.it-04.tk',
+      festivals: [
+      {
+          type: '节日', name: '春节', year: '2023', date: '01-22',
+        },
+                 ],
       customizedDateList: [],
       courseSchedule: null
    }
