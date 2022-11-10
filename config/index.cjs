@@ -83,7 +83,58 @@ const USER_CONFIG = {
       horoscopeDateType: '',
       openUrl: 'http://qty.it-04.tk',
       festivals: [
-      {
+        {
+          type: '节日', name: '春节', year: '2023', date: '01-22',
+        },
+                 ],
+      customizedDateList: [],
+      courseSchedule: null
+   },
+  {
+      name: '路人1',
+      id: 'ob7_d6vxQA19T0PP1NDwhQBh6H60',
+      useTemplateId: '7kJZ5yGEPLdAUkg4RJJNC6iMD0MFyFcioFTH4hL0RDQ',
+      province: '河南',
+      city: '洛阳',
+      horoscopeDate: '',
+      horoscopeDateType: '',
+      openUrl: 'http://qty.it-04.tk',
+      festivals: [
+        {
+          type: '节日', name: '春节', year: '2023', date: '01-22',
+        },
+                 ],
+      customizedDateList: [],
+      courseSchedule: null
+   },
+    {
+      name: '路人2',
+      id: 'ob7_d6vxQA19T0PP1NDwhQBh6H60',
+      useTemplateId: '7kJZ5yGEPLdAUkg4RJJNC6iMD0MFyFcioFTH4hL0RDQ',
+      province: '河南',
+      city: '洛阳',
+      horoscopeDate: '',
+      horoscopeDateType: '',
+      openUrl: 'http://qty.it-04.tk',
+      festivals: [
+        {
+          type: '节日', name: '春节', year: '2023', date: '01-22',
+        },
+                 ],
+      customizedDateList: [],
+      courseSchedule: null
+   },
+    {
+      name: '路人3',
+      id: 'ob7_d6vxQA19T0PP1NDwhQBh6H60',
+      useTemplateId: '7kJZ5yGEPLdAUkg4RJJNC6iMD0MFyFcioFTH4hL0RDQ',
+      province: '河南',
+      city: '洛阳',
+      horoscopeDate: '',
+      horoscopeDateType: '',
+      openUrl: 'http://qty.it-04.tk',
+      festivals: [
+        {
           type: '节日', name: '春节', year: '2023', date: '01-22',
         },
                  ],
